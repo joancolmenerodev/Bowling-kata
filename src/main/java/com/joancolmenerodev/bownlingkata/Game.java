@@ -12,6 +12,9 @@ public class Game {
     }
 
     public int score() {
+        var score = 0;
+        for (var i = 0; i < rolls.length; i++)
+            score += rolls[i];
         return score;
     }
 
