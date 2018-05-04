@@ -14,26 +14,17 @@ public class Game {
         for (var frame = 0; frame < 10; frame++) {
             if (rolls[frameIndex] == 10) // strike
             {
-                score += 10 +
-                        rolls[frameIndex+1] +
-                        rolls[frameIndex+2];
+                score += 10 + strikeBonus(frameIndex);
                 frameIndex++;
-            }
-            else if (isSpare(frameIndex))
-            {
-                score += 10 + rolls[frameIndex + 2];
+            } else if (isSpare(frameIndex)) {
+                score += 10 + spareBonus(frameIndex);
                 frameIndex += 2;
             } else {
-                score += rolls[frameIndex] +
-                        rolls[frameIndex + 1];
+                score += sumOfBallsInFrame(frameIndex);
                 frameIndex += 2;
             }
         }
         return score;
-    }
-
-    private boolean isStrike(int frameIndex) {
-        return rolls[frameIndex] == 10;
     }
 
     private int sumOfBallsInFrame(int frameIndex) {
