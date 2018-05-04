@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75fe7f9-0587-4cce-a591-1d113f2222d7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="358">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -269,6 +268,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="BowlingGameTest.testOneSpare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joancolmenerodev.bownlingkata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.joancolmenerodev.bownlingkata" />
+      <option name="MAIN_CLASS_NAME" value="com.joancolmenerodev.bownlingkata.BowlingGameTest" />
+      <option name="METHOD_NAME" value="testOneSpare" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -311,10 +333,12 @@
       <item itemvalue="JUnit.BowlingGameTest" />
       <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
+      <item itemvalue="JUnit.BowlingGameTest.testOneSpare" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BowlingGameTest" />
+        <item itemvalue="JUnit.BowlingGameTest.testOneSpare" />
         <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
         <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       </list>
@@ -330,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525422246742</updated>
-      <workItem from="1525422251540" duration="3775000" />
+      <workItem from="1525422251540" duration="4028000" />
     </task>
     <task id="LOCAL-00001" summary="Slide 25">
       <created>1525426169538</created>
@@ -346,7 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525426284308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Slide 27">
+      <created>1525426354117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426354117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Slide 28">
+      <created>1525426410104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426410104</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -374,9 +412,12 @@
     <history-entry file="BowlingGameTest - 2018.05.04 at 11h 30m 50s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest_testOneSpare - 2018.05.04 at 11h 34m 59s.xml">
+      <configuration name="BowlingGameTest.testOneSpare" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3775000" />
+    <option name="totallyTimeSpent" value="4028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -419,7 +460,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Slide 25" />
     <MESSAGE value="Slide 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slide 26" />
+    <MESSAGE value="Slide 27" />
+    <MESSAGE value="Slide 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slide 28" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/Start.java">
@@ -443,6 +486,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -452,16 +505,6 @@
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
             <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
