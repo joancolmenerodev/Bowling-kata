@@ -13,9 +13,7 @@ public class BowlingGameTest extends TestCase {
     }
 
     public void testGutterGame() throws Exception {
-        var n = 20;
-        var pins = 0;
-        rollMany(n, pins);
+        rollMany(20, 0);
         assertThat(g.score(),is(0));
     }
 
