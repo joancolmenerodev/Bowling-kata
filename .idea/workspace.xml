@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a75fe7f9-0587-4cce-a591-1d113f2222d7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="740">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="238">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#212#213#0" expanded="true" />
@@ -352,7 +353,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525422246742</updated>
-      <workItem from="1525422251540" duration="4992000" />
+      <workItem from="1525422251540" duration="5269000" />
     </task>
     <task id="LOCAL-00001" summary="Slide 25">
       <created>1525426169538</created>
@@ -417,22 +418,24 @@
       <option name="project" value="LOCAL" />
       <updated>1525427088648</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Slide 40">
+      <created>1525427581179</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525427581179</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Slide 42">
+      <created>1525427733452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1525427733452</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest_testOneSpare - 2018.05.04 at 11h 34m 59s.xml">
-      <configuration name="BowlingGameTest.testOneSpare" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 36m 46s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 37m 58s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 38m 52s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2018.05.04 at 11h 40m 08s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
@@ -451,9 +454,21 @@
     <history-entry file="BowlingGameTest - 2018.05.04 at 11h 45m 43s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 52m 27s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 54m 55s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest_testOneSpare - 2018.05.04 at 11h 55m 08s.xml">
+      <configuration name="BowlingGameTest.testOneSpare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 55m 12s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4992000" />
+    <option name="totallyTimeSpent" value="5269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -503,7 +518,9 @@
     <MESSAGE value="Slide 35" />
     <MESSAGE value="Slide 36" />
     <MESSAGE value="Slide 39" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slide 39" />
+    <MESSAGE value="Slide 40" />
+    <MESSAGE value="Slide 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slide 42" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/Start.java">
@@ -527,23 +544,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state relative-caret-position="238">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="740">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
