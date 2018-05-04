@@ -13,8 +13,10 @@ public class BowlingGameTest extends TestCase {
     }
 
     public void testGutterGame() throws Exception {
-        for (var i=0; i<20; i++)
-            g.roll(0);
+        var n = 20;
+        var pins = 0;
+        for (var i=0; i<n; i++)
+            g.roll(pins);
         assertThat(g.score(),is(0));
     }
 
