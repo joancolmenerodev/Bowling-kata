@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75fe7f9-0587-4cce-a591-1d113f2222d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/joancolmenerodev/bownlingkata/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/joancolmenerodev/bownlingkata/Game.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            <state relative-caret-position="740">
+              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,16 +38,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="260">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -354,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525422246742</updated>
-      <workItem from="1525422251540" duration="4028000" />
+      <workItem from="1525422251540" duration="4534000" />
     </task>
     <task id="LOCAL-00001" summary="Slide 25">
       <created>1525426169538</created>
@@ -384,28 +384,38 @@
       <option name="project" value="LOCAL" />
       <updated>1525426410104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Slide 33">
+      <created>1525426627956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426627956</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Slide 34">
+      <created>1525426703875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426703875</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Slide 35">
+      <created>1525426753836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426753836</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Slide 36">
+      <created>1525426979958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426979958</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2018.05.04 at 10h 35m 51s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 10h 56m 11s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest_testAllOnes - 2018.05.04 at 10h 58m 45s.xml">
-      <configuration name="BowlingGameTest.testAllOnes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 17m 22s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 25m 19s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 26m 48s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2018.05.04 at 11h 29m 00s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
@@ -415,9 +425,30 @@
     <history-entry file="BowlingGameTest_testOneSpare - 2018.05.04 at 11h 34m 59s.xml">
       <configuration name="BowlingGameTest.testOneSpare" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 36m 46s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 37m 58s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 38m 52s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 40m 08s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 40m 55s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 42m 26s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest_testOneSpare - 2018.05.04 at 11h 43m 17s.xml">
+      <configuration name="BowlingGameTest.testOneSpare" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4028000" />
+    <option name="totallyTimeSpent" value="4534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -462,7 +493,11 @@
     <MESSAGE value="Slide 26" />
     <MESSAGE value="Slide 27" />
     <MESSAGE value="Slide 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slide 28" />
+    <MESSAGE value="Slide 33" />
+    <MESSAGE value="Slide 34" />
+    <MESSAGE value="Slide 35" />
+    <MESSAGE value="Slide 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slide 36" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/Start.java">
@@ -486,25 +521,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="260">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        <state relative-caret-position="740">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
