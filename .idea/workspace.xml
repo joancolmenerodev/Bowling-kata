@@ -28,8 +28,11 @@
       <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="320">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +40,14 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/Start.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java" />
       </list>
     </option>
   </component>
@@ -214,6 +223,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="BowlingGameTest.testAllOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joancolmenerodev.bownlingkata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.joancolmenerodev.bownlingkata" />
+      <option name="MAIN_CLASS_NAME" value="com.joancolmenerodev.bownlingkata.BowlingGameTest" />
+      <option name="METHOD_NAME" value="testAllOnes" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="BowlingGameTest.testGutterGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bowling-kata" />
       <extension name="coverage">
@@ -278,10 +310,12 @@
     <list>
       <item itemvalue="JUnit.BowlingGameTest" />
       <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
+      <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BowlingGameTest" />
+        <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
         <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       </list>
     </recent_temporary>
@@ -296,7 +330,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525422246742</updated>
-      <workItem from="1525422251540" duration="1720000" />
+      <workItem from="1525422251540" duration="3016000" />
     </task>
     <servers />
   </component>
@@ -304,9 +338,18 @@
     <history-entry file="BowlingGameTest - 2018.05.04 at 10h 35m 51s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 10h 56m 11s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest_testAllOnes - 2018.05.04 at 10h 58m 45s.xml">
+      <configuration name="BowlingGameTest.testAllOnes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 17m 22s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1720000" />
+    <option name="totallyTimeSpent" value="3016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -321,7 +364,7 @@
       <window_info anchor="right" id="Maven Projects" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Designer" order="4" />
       <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25" />
@@ -370,15 +413,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/joancolmenerodev/bownlingkata/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="320">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
