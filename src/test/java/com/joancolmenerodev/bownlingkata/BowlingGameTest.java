@@ -48,4 +48,3 @@ public class BowlingGameTest extends TestCase {
         g.roll(5);
     }
 }
-
