@@ -24,8 +24,7 @@ public class BowlingGameTest extends TestCase {
     }
 
     public void testAllOnes() throws Exception {
-        for (var i = 0; i < 20; i++)
-            g.roll(1);
+        rollMany(20,1);
         assertThat(g.score(),is(20));
     }
 

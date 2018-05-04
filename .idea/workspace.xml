@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a75fe7f9-0587-4cce-a591-1d113f2222d7" name="Default" comment="" />
+    <list default="true" id="a75fe7f9-0587-4cce-a591-1d113f2222d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/joancolmenerodev/bownlingkata/BowlingGameTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +28,8 @@
       <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="280">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -327,8 +330,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525422246742</updated>
-      <workItem from="1525422251540" duration="3519000" />
+      <workItem from="1525422251540" duration="3775000" />
     </task>
+    <task id="LOCAL-00001" summary="Slide 25">
+      <created>1525426169538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426169538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Slide 26">
+      <created>1525426284308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525426284308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -350,9 +368,15 @@
     <history-entry file="BowlingGameTest - 2018.05.04 at 11h 26m 48s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 29m 00s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.04 at 11h 30m 50s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3519000" />
+    <option name="totallyTimeSpent" value="3775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -392,6 +416,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Slide 25" />
+    <MESSAGE value="Slide 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slide 26" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/Start.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -429,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joancolmenerodev/bownlingkata/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="280">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
